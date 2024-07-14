@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Katia! Nice to see you here >ᴗ< ㅤ♡
+# ♡ Hi, I'm Katia! Nice to see you here >ᴗ< ㅤ
 👩🏻‍💻Data Analyst with experience in retail, manufacturing and tech companies<br>
 📚Studied Industrial Engineering <br>
 💕Enjoying sharing my journey and learnings in data science<br>
