@@ -1,15 +1,24 @@
-# ♡ Hi, I'm Katia! Nice to see you here >ᴗ<ㅤ
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=♡+Hi,+I'm+Katia!;+Nice+to+see+you+here+>ᴗ<;" /> </h1>
+<!-- # ♡ Hi, I'm Katia! Nice to see you here >ᴗ<ㅤ -->
+
+<h3 align="center">About Me </h3>
 
 👩🏻‍💻Data Analyst with experience in retail, manufacturing and tech companies<br>
 📚Studied Industrial Engineering <br>
 💕Enjoying sharing my journey and learnings in data science<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katiakitaguti/) 
+<div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/katiakitaguti/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+
+<hr/>
 
 
+<h2 align="center">💻 Tech Stack: </h2>
+<br/>
 
-# 💻 Tech Stack:
 ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=for-the-badge)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -30,7 +39,11 @@
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-# 📊 GitHub Stats:
+
+<hr/>
+
+<h2 align="center"> 📊 GitHub Stats: </h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katia-kitaguti&theme=panda&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
