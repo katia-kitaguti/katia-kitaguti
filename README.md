@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=♡+Hi,+I'm+Katia!;+Nice+to+see+you+here+>ᴗ<;" /> </h1>
 <!-- # ♡ Hi, I'm Katia! Nice to see you here >ᴗ<ㅤ -->
 
-<h3 align="center">About Me </h3>
+<h3 align="center">✨ About Me </h3>
 
 👩🏻‍💻Data Analyst with experience in retail, manufacturing and tech companies<br>
 📚Studied Industrial Engineering <br>
@@ -42,11 +42,24 @@
 
 <hr/>
 
-<h2 align="center"> 📊 GitHub Stats: </h2>
+<div align="center">
+  <h2> ✍ My Contributions </h2>
+  <br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/katia-kitaguti/katia-kitaguti/output/github-contribution-grid-snake.svg" />
 
-![](https://github-readme-stats.vercel.app/api?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=katia-kitaguti&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
+
+<h2 align="center">📊 GitHub Stats:</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=katia-kitaguti&theme=panda&hide_border=false" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
+  
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=katia-kitaguti&icon=0&color=0)](https://visitcount.itsvg.in)
