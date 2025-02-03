@@ -53,7 +53,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=katia-kitaguti&theme=panda&hide_border=false" alt="readme stats" />
+<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=katia-kitaguti&theme=panda&hide_border=false" alt="readme stats" /> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=katia-kitaguti&theme=panda&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
   
   <br/>
