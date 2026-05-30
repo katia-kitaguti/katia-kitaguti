@@ -41,6 +41,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-A0E3F6?style=for-the-badge&logo=dbt&logoColor=white)
+![Metabase](https://img.shields.io/badge/metabase-0000FF?style=for-the-badge&logo=metabase&logoColor=white)
 
 
 <hr/>
